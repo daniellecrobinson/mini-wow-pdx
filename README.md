@@ -4,7 +4,9 @@ Do you have an idea for a project that will help the scientific community or imp
 
 At miniWOW PDX, [Mozilla Science Lab](https://science.mozilla.org/) will help you take your project from idea to reality and give you technical, project management, and community building skills to kickstart your work.
 
-## Join us on Friday April 14 (5:30-8:30pm), and Saturday April 15, 2017 (9-4pm) for a miniWOW PDX!  
+## Join us! 
+## Friday April 14 5:30 pm - 8:30 pm in downtown Portland 
+## Saturday April 15 9:00 am - 4:00 pm at OHSU's southwaterfront campus [Collaborative Life Science's Building](http://www.ohsu.edu/xd/about/visiting/directions/clsb-life-sciences.cfm) for miniWOW PDX!  
 
 **What will I learn at miniWOW PDX?** With help from a set of trainings created by Mozilla, you will learn how to create maximally open and effective initiatives, and build active communities of contributors. This workshop gives project leaders the tools they need to make projects that succeed!  Topics include Project Roadmapping, Contributor and Community Management, and GitHub for Project Management. There are no technical prerequisites for this workshop.
 
