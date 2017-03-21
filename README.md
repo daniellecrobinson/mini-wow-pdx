@@ -12,21 +12,16 @@ At miniWOW PDX, [Mozilla Science Lab](https://science.mozilla.org/) will help yo
 
 **But my project isn’t ready!** All you need is an idea to attend this workshop. miniWOW is a safe and fun space to work, even if your idea is not ready for prime time. miniWOW will help you get the skills you need to grow your project, especially if it depends on collaboration or community participation. We’ll prepare you for a for strong project launch using the principles of open source software development -- though it is important to note that non-technical projects are welcome and encouraged. Scientific software projects, survey research projects, and community education projects have all participated in past WOWs. 
 
-**Want to know more?** Read about the current Mozilla Open Leadership projects here and project leads that attended the WOW in Montreal here, and while you’re at it, check out this recap of WOW Montreal!
+**Want to know more?** Read about the current Mozilla Open Leadership projects [here](https://mozilla.github.io/leadership-training/projects/) and project leads that attended the WOW in Montreal [here](https://mozillascience.github.io/WOW-2017/), and while you’re at it, check out this [recap of WOW Montreal](https://science.mozilla.org/blog/2017-wow-wrap-up)!
 
 
 Examples of Mozilla WOW projects include:
-
-Reproducible Research in R for Ocean Biosciences: Open-science Training Seminar (RRROBOTS)
-A reproducible research course for the Ocean Biosciences program at Scripps Institution of Oceanography.
-SunPy
-A core library for Python solar physics data analysis.
-Open the North
-A project designed to connect indigenous communities in the Far North with scientific data relevant to the interests of their communities.
-The Method Podcast
-A peer-reviewed, open source podcast about the state of science.
-Why not Open Science? Listening as a means to guide action
-A research project on researcher attitudes and behaviors around open science
+--- | ---
+Reproducible Research in R for Ocean Biosciences: Open-science Training Seminar (RRROBOTS) | A reproducible research course for the Ocean Biosciences program at Scripps Institution of Oceanography.
+SunPy | A core library for Python solar physics data analysis.
+Open the North | A project designed to connect indigenous communities in the Far North with scientific data relevant to the interests of their communities.
+The Method Podcast | A peer-reviewed, open source podcast about the state of science.
+Why not Open Science? Listening as a means to guide action | A research project on researcher attitudes and behaviors around open science
 
 
 **What happens at a miniWOW?** The experience starts with a casual gathering on Friday evening where participants talk about projects and goals. On Saturday, project leads will participate in workshops and work sessions led by Mozilla Science staff, Fellows, and community members. We’ll cover the essentials of preparing an open project, bringing on contributors, developing your mentorship skills, using collaboration tools such as Git and GitHub, and growing an active community around an open project. The agenda includes lots of time for participants to make meaningful progress on their projects, and to network and collaborate across projects and disciplines. 
