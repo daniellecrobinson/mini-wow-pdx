@@ -19,11 +19,11 @@ At miniWOW PDX, [Mozilla Science Lab](https://science.mozilla.org/) will help yo
 
 Project | Description | 
 --- | --- |
-Reproducible Research in R for Ocean Biosciences: Open-science Training Seminar (RRROBOTS) | A reproducible research course for the Ocean Biosciences program at Scripps Institution of Oceanography.|
-SunPy | A core library for Python solar physics data analysis. |
-Open the North | A project designed to connect indigenous communities in the Far North with scientific data relevant to the interests of their communities. |
-The Method Podcast | A peer-reviewed, open source podcast about the state of science. |
-Why not Open Science? Listening as a means to guide action | A research project on researcher attitudes and behaviors around open science. |
+[Reproducible Research in R for Ocean Biosciences: Open-science Training Seminar (RRROBOTS)](https://github.com/Open-Data-Science-at-SIO/RRROBOTS) | A reproducible research course for the Ocean Biosciences program at Scripps Institution of Oceanography.|
+[SunPy](http://sunpy.org/) | A core library for Python solar physics data analysis. |
+[Open the North](https://github.com/Monsauce/Open-the-North) | A project designed to connect indigenous communities in the Far North with scientific data relevant to the interests of their communities. |
+[The Method Podcast](https://github.com/the-method/podcast) | A peer-reviewed, open source podcast about the state of science. |
+[Why not Open Science? Listening as a means to guide action](https://github.com/dasaderi/WhyNotOpenScience) | A research project on researcher attitudes and behaviors around open science. |
 
 
 **What happens at a miniWOW?** The experience starts with a casual gathering on Friday evening where participants talk about projects and goals. On Saturday, project leads will participate in workshops and work sessions led by Mozilla Science staff, Fellows, and community members. We’ll cover the essentials of preparing an open project, bringing on contributors, developing your mentorship skills, using collaboration tools such as Git and GitHub, and growing an active community around an open project. The agenda includes lots of time for participants to make meaningful progress on their projects, and to network and collaborate across projects and disciplines. 
