@@ -1,14 +1,14 @@
 # mini-wow-pdx
-Repository for information on 2017 miniWOW PDX
+
 Do you have an idea for a project that will help the scientific community or impact the way scientists work? It could be software, an advocacy project, an effort to bring science to the people, or something else entirely. Getting a project off the ground is daunting, and most of us aren’t trained in project management and community building skills.  
 
-At miniWOW PDX, Mozilla Science Lab will help you take your project from idea to reality and give you technical, project management, and community building skills to kickstart your work.
+At miniWOW PDX, [Mozilla Science Lab](https://science.mozilla.org/) will help you take your project from idea to reality and give you technical, project management, and community building skills to kickstart your work.
 
 Join us on Friday April 14 (5:30-8:30pm), and Saturday April 15, 2017 (9-4pm) for a miniWOW PDX!  
 
 What will I learn at miniWOW PDX? With help from a set of trainings created by Mozilla, you will learn how to create maximally open and effective initiatives, and build active communities of contributors. This workshop gives project leaders the tools they need to make projects that succeed!  Topics include Project Roadmapping, Contributor and Community Management, and GitHub for Project Management. There are no technical prerequisites for this workshop.
 
-Why is it called miniWOW PDX? The full Mozilla Working Open Workshop is two days long, this is a one day intensive version! We are trialing a shorter format -- less time commitment for you, but access to the same resources as the full WOW.
+Why is it called miniWOW PDX? The full [Mozilla Working Open Workshop](https://mozillascience.github.io/WOW-2017/) is two days long, this is a one day intensive version! We are trialing a shorter format -- less time commitment for you, but access to the same resources as the full WOW.
 
 But my project isn’t ready! All you need is an idea to attend this workshop. miniWOW is a safe and fun space to work, even if your idea is not ready for prime time. miniWOW will help you get the skills you need to grow your project, especially if it depends on collaboration or community participation. We’ll prepare you for a for strong project launch using the principles of open source software development -- though it is important to note that non-technical projects are welcome and encouraged. Scientific software projects, survey research projects, and community education projects have all participated in past WOWs. 
 
