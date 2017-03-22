@@ -34,4 +34,4 @@ Project | Description |
 
 To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7XNcDDcBWRzuiYNHRVb-MVxJwt4cz4E2uH86ZB1u_MHYPqw/viewform?usp=sf_link) and feel free to contact Danielle Robinson daniellecrobinson@gmail.com with questions. Registration closes on April 7, 2017!
 
-This event is sponsored by [Mozilla Science Lab](https://science.mozilla.org/), [The OHSU Library](http://www.ohsu.edu/xd/education/library/), and [Women in Science Portland](http://wisportland.weebly.com/). For more information, check out miniWOW PDX on GitHub pages. 
+This event is sponsored by [Mozilla Science Lab](https://science.mozilla.org/), [The OHSU Library](http://www.ohsu.edu/xd/education/library/), and [Women in Science Portland](http://wisportland.weebly.com/). For more information, check out miniWOW PDX(For more information, check out [niWOW PDX](https://daniellecrobinson.github.io/mini-wow-pdx/) (but don't expect the site to look like much right now).
