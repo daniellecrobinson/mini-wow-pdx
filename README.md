@@ -33,3 +33,5 @@ Project | Description |
 **What happens after the miniWOW?** Mozilla Science Lab is here for you! Find us on gitter, join our community calls.  Locally, join the OHSU BioData Club’s Hacky Hours to keep up the momentum on your project. Mozilla’s 2017 Global Sprint (June 1 and 2, 2017) is happening here in PDX and is a great time to connect with worldwide contributors.
 
 To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7XNcDDcBWRzuiYNHRVb-MVxJwt4cz4E2uH86ZB1u_MHYPqw/viewform?usp=sf_link) and feel free to contact Danielle Robinson daniellecrobinson@gmail.com with questions. Registration closes on April 7, 2017!
+
+This event is sponsored by Mozilla Science Lab, The OHSU Library, and Women in Science Portland. 
