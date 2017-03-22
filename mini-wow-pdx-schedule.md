@@ -16,6 +16,14 @@
 **Saturday @ OHSU southwaterfront campus CLSB
 
    Open Canvas - create a coherent strategy, including channels for contribution **Daniela Saderi**
+   
    Roadmapping - plan your project schedule and priorities **Danielle Robinson**
+   
    README - describe and dejargonize your project **Steph Wright**
+   
    Contributor Guidelines + Code of Conduct - set the tone and facilitate contribution **Robin Champieux?**
+   
+   Other ideas!
+   Panel Discussion ideas:
+   Building and sustaining community when we are all busy (Samantha from ASAP Bio, Steph Wright, a Women in Science PDX person)
+   
