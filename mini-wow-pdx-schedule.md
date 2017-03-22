@@ -13,7 +13,7 @@
 8:30 - some people go to a bar :)
 
 
-**Saturday @ OHSU southwaterfront campus CLSB
+**Saturday @ OHSU 9AM-4PM southwaterfront campus CLSB
 
    Open Canvas - create a coherent strategy, including channels for contribution **Daniela Saderi**
    
