@@ -8,18 +8,19 @@
 
 7-7:15 break
 
-7:15-8:30 GitHub as a collaborative platform. Let's get everyone on GitHub - basic account making and GitHub tour for people unfamiliar with it. ** Hannah Kane? **
+7:15-8:30 GitHub as a collaborative platform. Let's get everyone on GitHub - basic account making and GitHub tour for people unfamiliar with it. **Hannah Kane, Danielle Robinson, and Stephanie Wright**
 
 8:30 - some people go to a bar :)
 
 
-**Saturday @ OHSU 9:30 AM-4PM southwaterfront campus CLSB
+**Saturday @ OHSU 9:30 AM-4PM southwaterfront campus CLSB 3A001 
 
 Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.portlandfarmersmarket.org/our-markets/psu/) it opens at 8:30 am, and contains all the wonders of the world. We recommend Verde Cucina and Pine State Biscuits.
 
 9:00 We will be there, you can hang out and drink coffee. 
 
 9:30 Sessions start
+
 Open Canvas - create a coherent strategy, including channels for contribution **Daniela Saderi**
    
    Roadmapping - plan your project schedule and priorities **Danielle Robinson**
