@@ -27,14 +27,18 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 Break 10:15-10:30
 
 10:30-10:45 Intro to Roadmapping - plan your project schedule and priorities - **Danielle Robinson**
-10:45- 11:30 Independent    
-**Panel Discussion ideas:**
+10:45- 11:30 Independent or small group work
+11:30-12:30 Lunch Break
+
+12:30 - 1:30 **Panel Discussion:**
 Building and sustaining community when we are all busy (Khady Sall form SeeSD, Samantha from ASAP Bio, Steph Wright, a Women in Science PDX person)
    
-README - describe and dejargonize your project - **Steph Wright**
+1:30 - 2:30 Intro to the README - describe and dejargonize your project - **Steph Wright**
+ 
+2:30 - 2:45 Break
+
+2:45 - 3:30 Contributor Guidelines + Code of Conduct - set the tone and facilitate contribution - **Robin Champieux?**
    
-Contributor Guidelines + Code of Conduct - set the tone and facilitate contribution - **Robin Champieux?**
-   
-   Other ideas!
+
    
    
