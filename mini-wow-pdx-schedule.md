@@ -21,15 +21,20 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 
 9:30 Sessions start
 
-Open Canvas - create a coherent strategy, including channels for contribution **Daniela Saderi**
+9:30-9:45 Intro Open Canvas - create a coherent strategy, including channels for contribution - **Daniela Saderi**
+9:45-10:15 Independent or small group work  
+
+Break 10:15-10:30
+
+10:30-10:45 Intro to Roadmapping - plan your project schedule and priorities - **Danielle Robinson**
+10:45- 11:30 Independent    
+**Panel Discussion ideas:**
+Building and sustaining community when we are all busy (Khady Sall form SeeSD, Samantha from ASAP Bio, Steph Wright, a Women in Science PDX person)
    
-   Roadmapping - plan your project schedule and priorities **Danielle Robinson**
+README - describe and dejargonize your project - **Steph Wright**
    
-   README - describe and dejargonize your project **Steph Wright**
-   
-   Contributor Guidelines + Code of Conduct - set the tone and facilitate contribution **Robin Champieux?**
+Contributor Guidelines + Code of Conduct - set the tone and facilitate contribution - **Robin Champieux?**
    
    Other ideas!
-   Panel Discussion ideas:
-   Building and sustaining community when we are all busy (Samantha from ASAP Bio, Steph Wright, a Women in Science PDX person)
+   
    
