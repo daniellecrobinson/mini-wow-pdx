@@ -4,7 +4,7 @@ Do you have an idea for a project that will help the scientific community or imp
 
 At miniWOW PDX, [Mozilla Science Lab](https://science.mozilla.org/) will help you take your project from idea to reality and give you technical, project management, and community building skills to kickstart your work.
 
-**Registration closes on April 7, 2017!** To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7XNcDDcBWRzuiYNHRVb-MVxJwt4cz4E2uH86ZB1u_MHYPqw/viewform?usp=sf_link)
+**Registration closes on April 7, 2017!** To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7XNcDDcBWRzuiYNHRVb-MVxJwt4cz4E2uH86ZB1u_MHYPqw/viewform?usp=sf_link).
 
 ### Join us! 
 **Friday April 14 5:30 pm - 8:30 pm in downtown Portland 
