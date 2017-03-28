@@ -8,7 +8,7 @@
 
 7-7:15 break
 
-7:15-8:30 GitHub as a collaborative platform. Let's get everyone on GitHub - basic account making and GitHub tour for people unfamiliar with it. ** Hannah Kane and Max Odgen? **
+7:15-8:30 GitHub as a collaborative platform. Let's get everyone on GitHub - basic account making and GitHub tour for people unfamiliar with it. ** Hannah Kane? **
 
 8:30 - some people go to a bar :)
 
