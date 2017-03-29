@@ -1,4 +1,4 @@
-All the lovely humans involved in WoW Montreal 2016
+All the lovely humans involved in miniWOW PDX 2017
 
 // Team //
 
@@ -18,9 +18,9 @@ Mozilla Fellows:
 
 
 // Participants (and affiliations) //
- - Tim Head / project everware
- - Anna Krystalli/ University of Sheffield
- - Madeleine Bonsma / University of Toronto 
+ - Robin Champieux / Scholarly Communication Librarian at OHSU Library
+ - Daniela Saderi Thorson / Neuroscience PhD Candidate at OHSU and Mozilla Open Leadership Training project lead
+
 
 
 // Special Thanks!! //
