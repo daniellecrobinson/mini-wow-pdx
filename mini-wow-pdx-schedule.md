@@ -32,7 +32,7 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 11:30-12:30 Lunch Break
 
 12:30 - 1:30 **Panel Discussion:**
-Building and sustaining community when we are all busy (Khady Sall from SeeSD, Samantha from ASAP Bio, Steph Wright, a Women in Science PDX person, or March for Science person, Catrina or Shaelyn Watson (WWcode) or Emily Plummber (donut.js)
+Building and sustaining community when we are all busy - Teon Brooks, Khady Sall from SeeSD, Samantha from ASAP Bio & a Women in Science PDX person, or March for Science person, Catrina or Shaelyn Watson (WWcode) or Emily Plummber (donut.js)
    
 1:30 - 2:30 **Intro to the README** - describe and dejargonize your project - **Steph Wright**
  
