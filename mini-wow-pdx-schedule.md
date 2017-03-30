@@ -4,7 +4,7 @@
 
 6:00-6:15 Intro to Mozilla, the Science Lab and WOW
 
-6:15-7 Introductions and ideas - keep it low stakes - maybe everyone answers the same 5 qs about their idea? Or another ice breaker/"no imposters here" exercise to get people talking about their ideas
+6:15-7 Introductions and ideas - keep it low stakes - maybe everyone answers the same 3-5 qs about their idea? Or another ice breaker/"no imposters here" exercise to get people talking about their ideas
 
 7-7:15 break
 
@@ -21,7 +21,7 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 
 9:30 Sessions start
 
-9:30-9:45 **Intro Open Canvas** - create a coherent strategy, including channels for contribution - **Daniela Saderi**
+9:30-9:45 **Intro to Open Canvas** - create a coherent strategy, including channels for contribution - **Daniela Saderi**
 9:45-10:15 Independent or small group work  
 
 10:15-10:30 Break 
