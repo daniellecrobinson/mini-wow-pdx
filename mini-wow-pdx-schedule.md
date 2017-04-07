@@ -8,7 +8,7 @@
 
 7-7:15 break
 
-7:15-8:30 GitHub as a collaborative platform. Let's get everyone on GitHub - basic account making and GitHub tour for people unfamiliar with it. **Hannah Kane, Danielle Robinson, and Stephanie Wright**
+7:15-8:30 GitHub as a collaborative platform. Let's get everyone on GitHub - basic account making and GitHub tour for people unfamiliar with it. **Hannah Kane, Teon Brooks, Danielle Robinson, and Stephanie Wright**
 
 8:30 - some people go to a bar :)
 
@@ -34,7 +34,7 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 12:30 - 1:30 **Panel Discussion:**
 Building and sustaining community when we are all busy - Teon Brooks, Khady Sall from SeeSD, Samantha from ASAP Bio & a Women in Science PDX person, or March for Science person, Catrina or Shaelyn Watson (WWcode) or Emily Plummber (donut.js)
    
-1:30 - 2:30 **Intro to the README** - describe and dejargonize your project - **Steph Wright**
+1:30 - 2:30 **Intro to the README** - describe and dejargonize your project - **Teon Brooks**
  
 2:30 - 2:45 Break
 
