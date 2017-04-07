@@ -2,7 +2,8 @@
 
 5:30-6 mingling and arrivals, pizza and drinks are available at 5:30
 
-6:00-6:15 Intro to Mozilla, the Science Lab and WOW
+6:00-6:15 **Intro to Mozilla -  Hannah Kane**
+ **Intro to the Science Lab and WOW - Steph Wright**
 
 6:15-7 Introductions and ideas - keep it low stakes - maybe everyone answers the same 3-5 qs about their idea? Or another ice breaker/"no imposters here" exercise to get people talking about their ideas
 
@@ -38,7 +39,10 @@ Building and sustaining community when we are all busy - Teon Brooks, Khady Sall
  
 2:30 - 2:45 Break
 
-2:45 - 3:30 **Contributor Guidelines + Code of Conduct** - set the tone and facilitate contribution - **Robin Champieux?**
+2:45 - 3:30 **Contributor Guidelines + Code of Conduct** - set the tone and facilitate contribution - **Robin Champieux**
+
+3:30 - 4:00 **The Way Forward** - what comes after miniWOW - **Steph Wright**
+
    
 
    
