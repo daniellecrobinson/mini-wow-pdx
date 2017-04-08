@@ -1,4 +1,4 @@
-**Friday evening @ Mozilla Offices (ideally)
+**Friday evening @ Mozilla Offices: 1120 NW Couch St, Suite 320 
 
 5:30-6 mingling and arrivals, pizza and drinks are available at 5:30
 
