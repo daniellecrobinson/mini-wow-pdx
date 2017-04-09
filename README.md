@@ -4,10 +4,10 @@ Do you have an idea for a project that will help the scientific community or imp
 
 At miniWOW PDX, [Mozilla Science Lab](https://science.mozilla.org/) will help you take your project from idea to reality and give you technical, project management, and community building skills to kickstart your work.
 
-**Registration closes on April 7, 2017!** To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7XNcDDcBWRzuiYNHRVb-MVxJwt4cz4E2uH86ZB1u_MHYPqw/viewform?usp=sf_link).
+To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7XNcDDcBWRzuiYNHRVb-MVxJwt4cz4E2uH86ZB1u_MHYPqw/viewform?usp=sf_link). **We will accept registrations through Wednesday April 12 or until we are at capacity.** 
 
 ### Join us! 
-**Friday April 14 5:30 pm - 8:30 pm in downtown Portland 
+**Friday April 14 5:30 pm - 8:30 pm at Mozilla PDX. 
 Saturday April 15 9:00 am - 4:00 pm at OHSU's southwaterfront campus [Collaborative Life Science's Building](http://www.ohsu.edu/xd/about/visiting/directions/clsb-life-sciences.cfm) for miniWOW PDX!**
 
 **What will I learn at miniWOW PDX?** With help from a set of trainings created by Mozilla, you will learn how to create maximally open and effective initiatives, and build active communities of contributors. This workshop gives project leaders the tools they need to make projects that succeed!  Topics include Project Roadmapping, Contributor and Community Management, and GitHub for Project Management. There are no technical prerequisites for this workshop.
@@ -34,6 +34,6 @@ Project | Description |
 
 **What happens after the miniWOW?** Mozilla Science Lab is here for you! Find us on gitter, join our community calls.  Locally, join the OHSU BioData Club’s Hacky Hours to keep up the momentum on your project. Mozilla’s 2017 Global Sprint (June 1 and 2, 2017) is happening here in PDX and is a great time to connect with worldwide contributors.
 
-To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7XNcDDcBWRzuiYNHRVb-MVxJwt4cz4E2uH86ZB1u_MHYPqw/viewform?usp=sf_link) and feel free to contact Danielle Robinson daniellecrobinson@gmail.com with questions. Registration closes on April 7, 2017!
+To register, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe7XNcDDcBWRzuiYNHRVb-MVxJwt4cz4E2uH86ZB1u_MHYPqw/viewform?usp=sf_link) and feel free to contact Danielle Robinson daniellecrobinson@gmail.com with questions. 
 
 This event is sponsored by [Mozilla Science Lab](https://science.mozilla.org/), [The OHSU Library](http://www.ohsu.edu/xd/education/library/), and [Women in Science Portland](http://wisportland.weebly.com/). For more information, check out miniWOW PDX(For more information, check out [miniWOW PDX](https://daniellecrobinson.github.io/mini-wow-pdx/).
