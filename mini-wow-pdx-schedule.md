@@ -1,8 +1,8 @@
-**Friday evening @ Mozilla Offices: 1120 NW Couch St, Suite 320 
+** Friday evening @ Mozilla Offices: 1120 NW Couch St, Suite 320 ** 
 
 5:30-6 mingling and arrivals, pizza and drinks are available at 5:30
 
-6:00-6:15 **Intro to Mozilla -  Hannah Kane**
+6:00-6:15 ** Intro to Mozilla -  Hannah Kane **
  **Intro to the Science Lab and WOW - Steph Wright**
 
 6:15-7 Introductions and ideas - keep it low stakes - maybe everyone answers the same 3-5 qs about their idea? Or another ice breaker/"no imposters here" exercise to get people talking about their ideas
@@ -33,7 +33,12 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 11:30-12:30 Lunch Break
 
 12:30 - 1:30 **Panel Discussion:**
-Building and sustaining community when we are all busy - Teon Brooks, Khady Sall from SeeSD, Samantha from ASAP Bio & a Women in Science PDX person, or March for Science person, Catrina or Shaelyn Watson (WWcode) or Emily Plummber (donut.js)
+Building and sustaining community.
+[Khady Sall](http://gradschool.oregonstate.edu/molecular-and-cellular-biology-graduate-program/khadidiatou-sall) - Founded a Clinton Foundation funded STEM education initiative, [SeeSD](https://www.seesd.org/), whilst in the middle of her PhD at OSU. She manages the program remotely.
+[Teon Brooks](https://twitter.com/teon_io) – National March for Science organizing committee and super involved in the hardware hacking and open source cognitive neuroscience tools communities. 
+[Samantha Hindle](https://www.linkedin.com/in/samantha-hindle-a82bb689/) – Post-doctoral fellow at UCSF and ambassador for [ASAP Bio](http://asapbio.org/).
+[Allison Schaser](https://www.linkedin.com/in/allison-schaser-63b62099/) - Post-doctoral fellow in the Neurology department at OHSU and president of Women in Science Portland. She is passionate about building supportive networks promote retention and career development for women in the sciences.
+
    
 1:30 - 2:30 **Intro to the README** - describe and dejargonize your project - **Teon Brooks and Steph Wright**
  
