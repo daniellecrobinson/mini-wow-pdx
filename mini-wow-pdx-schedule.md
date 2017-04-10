@@ -41,9 +41,9 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 12:30 - 1:30 ** Panel Discussion: **
 Building and sustaining community.
 
-**[Khady Sall](http://gradschool.oregonstate.edu/molecular-and-cellular-biology-graduate-program/khadidiatou-sall)**: Founded a Clinton Foundation funded STEM education initiative, [SeeSD](https://www.seesd.org/), whilst in the middle of her PhD at OSU. She manages the program remotely.
+**[Khady Sall](http://gradschool.oregonstate.edu/molecular-and-cellular-biology-graduate-program/khadidiatou-sall)**: Founded a Clinton Foundation funded STEM education initiative, [SeeSD](https://www.seesd.org/), whilst in the middle of her PhD at OSU. She manages the program in Senegal remotely from Corvalis, OR.
 
-**[Teon Brooks](https://twitter.com/teon_io)**: National March for Science organizing committee and super involved in the hardware hacking and open source cognitive neuroscience tools communities. 
+**[Teon Brooks](https://twitter.com/teon_io)**: Mozilla Fellow for Science 2016, National March for Science organizing committee, and hardware hacker extraordinaire who is also active in the open source cognitive neuroscience community. 
 
 **[Samantha Hindle](https://www.linkedin.com/in/samantha-hindle-a82bb689/)**: Post-doctoral fellow at UCSF and ambassador for [ASAP Bio](http://asapbio.org/).
 
