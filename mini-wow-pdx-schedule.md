@@ -41,18 +41,18 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 12:30 - 1:30 ** Panel Discussion: **
 Building and sustaining community.
 
-**[Khady Sall]**(http://gradschool.oregonstate.edu/molecular-and-cellular-biology-graduate-program/khadidiatou-sall): Founded a Clinton Foundation funded STEM education initiative, [SeeSD](https://www.seesd.org/), whilst in the middle of her PhD at OSU. She manages the program remotely.
+**[Khady Sall](http://gradschool.oregonstate.edu/molecular-and-cellular-biology-graduate-program/khadidiatou-sall)**: Founded a Clinton Foundation funded STEM education initiative, [SeeSD](https://www.seesd.org/), whilst in the middle of her PhD at OSU. She manages the program remotely.
 
-** [Teon Brooks](https://twitter.com/teon_io) **: National March for Science organizing committee and super involved in the hardware hacking and open source cognitive neuroscience tools communities. 
+**[Teon Brooks](https://twitter.com/teon_io)**: National March for Science organizing committee and super involved in the hardware hacking and open source cognitive neuroscience tools communities. 
 
-** [Samantha Hindle](https://www.linkedin.com/in/samantha-hindle-a82bb689/) **: Post-doctoral fellow at UCSF and ambassador for [ASAP Bio](http://asapbio.org/).
+**[Samantha Hindle](https://www.linkedin.com/in/samantha-hindle-a82bb689/)**: Post-doctoral fellow at UCSF and ambassador for [ASAP Bio](http://asapbio.org/).
 
-**[Allison Schaser](https://www.linkedin.com/in/allison-schaser-63b62099/) **: Post-doctoral fellow in the Neurology department at OHSU and president of Women in Science Portland. She is passionate about building supportive networks promote retention and career development for women in the sciences.
+**[Allison Schaser](https://www.linkedin.com/in/allison-schaser-63b62099/)**: Post-doctoral fellow in the Neurology department at OHSU and president of Women in Science Portland. She is passionate about building supportive networks promote retention and career development for women in the sciences.
 
    
 1:30 - 2:30 **Intro to the README** - describe and dejargonize your project - **Teon Brooks and Steph Wright**
  
-2:30 - 2:45 ** Break**
+2:30 - 2:45 **Break**
 
 2:45 - 3:30 **Contributor Guidelines + Code of Conduct** - set the tone and facilitate contribution - **Robin Champieux**
 
