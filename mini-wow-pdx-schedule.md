@@ -13,9 +13,9 @@
 2. What is a project or that you admire and what would you like to borrow or emulate in your project?
 2. What will does your ideal scenario look like if your project succeeds - the pie in the sky scenario of success?
 
-7-7:15 ** Break **
+7-7:15 **Break**
 
-7:15-8:30 ** GitHub as a collaborative platform.** Let's get everyone on GitHub - Friendly intro to GitHub for project management. **Hannah Kane, Teon Brooks, Danielle Robinson, and Stephanie Wright**
+7:15-8:30 **GitHub as a collaborative platform.** Let's get everyone on GitHub - Friendly intro to GitHub for project management. **Hannah Kane, Teon Brooks, Danielle Robinson, and Stephanie Wright**
 
 8:30 - some people go to a bar :)
 
@@ -31,7 +31,7 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 9:30-9:45 **Intro to Open Canvas** - create a coherent strategy, including channels for contribution - **Daniela Saderi**
 9:45-10:15 Independent or small group work  
 
-10:15-10:30 ** Break **
+10:15-10:30 **Break**
 
 10:30-10:45 ** Intro to Roadmapping** - plan your project schedule and priorities - **Danielle Robinson**
 10:45- 11:30 Independent or small group work
@@ -41,7 +41,7 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 12:30 - 1:30 ** Panel Discussion: **
 Building and sustaining community.
 
-** [Khady Sall](http://gradschool.oregonstate.edu/molecular-and-cellular-biology-graduate-program/khadidiatou-sall) **: Founded a Clinton Foundation funded STEM education initiative, [SeeSD](https://www.seesd.org/), whilst in the middle of her PhD at OSU. She manages the program remotely.
+**[Khady Sall]**(http://gradschool.oregonstate.edu/molecular-and-cellular-biology-graduate-program/khadidiatou-sall): Founded a Clinton Foundation funded STEM education initiative, [SeeSD](https://www.seesd.org/), whilst in the middle of her PhD at OSU. She manages the program remotely.
 
 ** [Teon Brooks](https://twitter.com/teon_io) **: National March for Science organizing committee and super involved in the hardware hacking and open source cognitive neuroscience tools communities. 
 
