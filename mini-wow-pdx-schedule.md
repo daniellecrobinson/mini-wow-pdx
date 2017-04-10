@@ -33,12 +33,12 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 
 10:15-10:30 **Break**
 
-10:30-10:45 ** Intro to Roadmapping** - plan your project schedule and priorities - **Danielle Robinson**
+10:30-10:45 **Intro to Roadmapping** - plan your project schedule and priorities - **Danielle Robinson**
 10:45- 11:30 Independent or small group work
 
-11:30-12:30 ** Lunch Break
+11:30-12:30 **Lunch Break**
 
-12:30 - 1:30 ** Panel Discussion: **
+12:30 - 1:30 **Panel Discussion:**
 Building and sustaining community.
 
 **[Khady Sall](http://gradschool.oregonstate.edu/molecular-and-cellular-biology-graduate-program/khadidiatou-sall)**: Founded a Clinton Foundation funded STEM education initiative, [SeeSD](https://www.seesd.org/), whilst in the middle of her PhD at OSU. She manages the program in Senegal remotely from Corvalis, OR.
