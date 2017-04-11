@@ -1,14 +1,14 @@
 ### Friday evening @ Mozilla Offices: 1120 NW Couch St, Suite 320
 
-5:30-6 **Mingling and arrivals:** pizza and drinks are available at 5:30
+5:30-5:50 **Mingling and arrivals:** pizza and drinks are available at 5:30
 
-6:00-6:15 
+5:50-6:05 
 
 **Intro to Mozilla: Hannah Kane**
 
 **Intro to the Science Lab and WOW: Steph Wright**
 
-6:15-7 **Icebreaker:** Everyone answers the same 3 Qs about their project.
+6:05-7 **Icebreaker:** Everyone answers the same 3 Qs about their project.
 1. What led you to start this project? What gap does it fill?
 2. What is a project or that you admire and what would you like to borrow or emulate in your project?
 2. What will does your ideal scenario look like if your project succeeds - the pie in the sky scenario of success?
