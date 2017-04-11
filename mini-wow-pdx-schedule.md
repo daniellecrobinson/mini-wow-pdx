@@ -11,7 +11,7 @@
 6:05-7 **Icebreaker:** Everyone answers the same 3 Qs about their project.
 1. What led you to start this project? What gap does it fill?
 2. What is a project or that you admire and what would you like to borrow or emulate in your project?
-2. What will does your ideal scenario look like if your project succeeds - the pie in the sky scenario of success?
+2. What does your ideal scenario look like if your project succeeds - the pie in the sky scenario of success?
 
 7-7:15 **Break**
 
