@@ -36,6 +36,8 @@ Breakfast Recommendations: [Portland State Saturday Farmers Market](http://www.p
 10:30-10:45 **Intro to Roadmapping** - plan your project schedule and priorities - **Danielle Robinson**
 10:45- 11:30 Independent or small group work
 
+**11am SOMEONE GOES TO PICK UP LUNCH! From Cha Cha Cha!**
+
 11:30-12:30 **Lunch Break**
 
 12:30 - 1:30 **Panel Discussion:**
